@@ -1,0 +1,28 @@
+#fancy{
+    color: seagreen;
+}
+
+#boxybox{
+    position: sticky;
+    top: 0;
+    background-color: thistle;
+}
+
+p{
+    color: mediumvioletred;
+}
+
+div{
+    background-color: slateblue;
+    border: 3.5px dotted violet;
+}
+
+.heading {
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.content{
+    color: maroon;
+}
+

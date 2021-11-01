@@ -8,3 +8,16 @@ h1 {
     padding: 20px;
     margin: 0;
 }
+
+div {
+    background-image: url(images/409593.webp);
+    background-repeat: repeat;
+    color:powderblue;
+}
+
+p{
+    font-size: 20pt;
+    border: 12px solid rgb(110, 110, 202);
+    padding: 4rem;
+    margin: 10px;
+}
